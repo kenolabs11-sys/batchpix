@@ -1,8 +1,6 @@
-# batchpix
-Offline batch image converter (PNG/JPG/WEBP)
 # BatchPix
 
-Offline batch image converter.
+Offline batch image converter (PNG/JPG/WEBP)
 
 ## Features
 - Drag & drop images or folders
